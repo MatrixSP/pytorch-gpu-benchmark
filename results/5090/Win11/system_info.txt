@@ -1,0 +1,14 @@
+benchmark start : 2025/05/09 00:53:33
+system_configs
+
+uname_result(system='Windows', node='Sora-Station', release='11', version='10.0.26100', machine='AMD64')
+                     scpufreq(current=4300.0, min=0.0, max=4300.0)
+                    cpu_count: 32
+                    memory_available: 53931945984
+gpu_configs
+
+Number of GPUs on current device : 1
+CUDA Version : 12.8
+Cudnn Version : 90701
+Device Name : NVIDIA GeForce RTX 5090
+benchmark end : 2025/05/09 01:21:08

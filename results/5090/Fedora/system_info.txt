@@ -1,0 +1,14 @@
+benchmark start : 2025/07/08 11:41:19
+system_configs
+
+uname_result(system='Linux', node='fedora', release='6.15.4-200.fc42.x86_64', version='#1 SMP PREEMPT_DYNAMIC Fri Jun 27 15:32:46 UTC 2025', machine='x86_64')
+                     scpufreq(current=3.0545312500000024, min=2971.5449999999987, max=5803.252999999998)
+                    cpu_count: 32
+                    memory_available: 56323620864
+gpu_configs
+
+Number of GPUs on current device : 1
+CUDA Version : 12.8
+Cudnn Version : 90701
+Device Name : NVIDIA GeForce RTX 5090
+benchmark end : 2025/07/08 11:56:26
